@@ -1,0 +1,11 @@
+I’m excited to share my latest project: GLAM-Beauty, a full-stack e-commerce platform designed with a "luxury boutique" aesthetic in mind. 
+
+
+
+Admin Control Center: Built a dedicated administrative dashboard to manage product catalogs, track real-time orders, and monitor system notifications.
+
+Full Commerce Loop: Integrated features include a dynamic Cart, Wishlist, Search, Product Reviews, and a secure Checkout flow.
+
+Frontend: React, Vite, Framer Motion
+
+Backend: Node.js and Express, JWT-based authentication
